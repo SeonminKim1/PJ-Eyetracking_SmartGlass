@@ -95,7 +95,7 @@
 - 실시간 스트리밍 : MJPEG Streaming
 - 시선추적 : Open CV (3.4.3)
 - 객체인식 : YOLO v3
-- 사물제어 : Node JS + LIRC(Linux Infrared Remo
+- 사물제어 : Node JS + LIRC(Linux Infrared Remo)
 
 ### ■ 참여자
 - ⦁ 컴퓨터공학부 박성영 (hs1491012@gmail.com)
