@@ -17,7 +17,7 @@
 - **A Study on the Smart Glass for Object Control using Eye Gaze Tracking (시선추적을 스마트 안경을 이용한 사물제어 연구)**
 - 결과 : 우수논문발표상 
 
-#### ***(11월 20일 ~ 캘리브레이션 수정예정)***
+#### ***(2020년 11월 20일 ~ 캘리브레이션 수정예정)***
 
 ## ■ 시연 영상
 - https://www.youtube.com/watch?v=rsepKaSXCls&feature=youtu.be // Youtube 시연영상
